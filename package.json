@@ -12,7 +12,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/Alfie-Devs/FRC-Theme"
+        "url": "https://github.com/Day-Codes/FRC-Vscode-Theme"
     },
     "contributes": {
         "themes": [
