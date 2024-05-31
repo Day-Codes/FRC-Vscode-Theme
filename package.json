@@ -2,7 +2,7 @@
     "name": "FRC-Theme",
     "displayName": "FRC Theme",
     "description": "A Vscode Theme that is more FRC Related",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "Alfie-Devs",
     "engines": {
         "vscode": "^1.45.0"
@@ -30,6 +30,11 @@
                 "label": "2609 Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/2609.json"
+            },
+            {
+                "label": "WPLIB Light",
+                "uiTheme": "vs-light",
+                "path": "./themes/wplib-light.json"
             }
         ]
     },
