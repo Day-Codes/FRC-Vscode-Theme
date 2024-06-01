@@ -1,8 +1,8 @@
 {
-    "name": "FRC-Theme",
-    "displayName": "FRC Theme",
+    "name": "FRC-Theme-Package",
+    "displayName": "FRC Theme-Package",
     "description": "A Vscode Theme that is more FRC Related",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "Alfie-Devs",
     "engines": {
         "vscode": "^1.45.0"
