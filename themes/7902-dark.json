@@ -46,9 +46,11 @@
         "tab.border": "#3685E5",
         "tab.activeBorder": "#3685E5",
         "tab.inactiveBorder": "#215BCA",
-        "dropdown.background": "#172235", 
-        "dropdown.foreground": "#8CECF8", 
-        "dropdown.border": "#3685E5"
+        "dropdown.background": "#172235",
+        "dropdown.foreground": "#8CECF8",
+        "dropdown.border": "#3685E5",
+        "editor.copyHighlightBackground": "#172235",   // Added copy highlight background
+        "editor.copyHighlightForeground": "#3685E5"    // Added copy highlight foreground
     },
     "tokenColors": [
         {

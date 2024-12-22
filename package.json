@@ -2,7 +2,8 @@
     "name": "FRC-Theme-Package",
     "displayName": "FRC Theme-Package",
     "description": "A Vscode Theme that is more FRC Related",
-    "version": "0.1.0",
+    "version": "0.1.6",
+    "icon": "logo.png",
     "publisher": "Alfie-Devs",
     "engines": {
         "vscode": "^1.45.0"
@@ -45,6 +46,11 @@
                 "label": "7902 Dark theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/7902-dark.json"
+            },
+            {
+                "label": "1678 Dark theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/1678.json"
             }
         ]
     },
